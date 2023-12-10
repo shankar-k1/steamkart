@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/steamkart/static/css/main.7e816830.css",
+    "main.js": "/steamkart/static/js/main.8c784d3c.js",
+    "static/js/787.39e9b6cb.chunk.js": "/steamkart/static/js/787.39e9b6cb.chunk.js",
+    "static/media/2.png": "/steamkart/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/steamkart/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/1.png": "/steamkart/static/media/1.87f6c2f48f7e15ed845b.png",
+    "index.html": "/steamkart/index.html",
+    "main.7e816830.css.map": "/steamkart/static/css/main.7e816830.css.map",
+    "main.8c784d3c.js.map": "/steamkart/static/js/main.8c784d3c.js.map",
+    "787.39e9b6cb.chunk.js.map": "/steamkart/static/js/787.39e9b6cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e816830.css",
+    "static/js/main.8c784d3c.js"
+  ]
+}
